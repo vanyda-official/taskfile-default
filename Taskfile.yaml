@@ -1,0 +1,8 @@
+version: '3'
+
+includes:
+  default: ./tasks.yaml
+
+dotenv:
+  - .env
+  - .env.default

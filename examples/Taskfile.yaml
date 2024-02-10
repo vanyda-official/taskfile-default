@@ -1,0 +1,9 @@
+version: '3'
+
+includes:
+  default: ../tasks.yaml
+  another: ./another.yaml
+
+dotenv:
+  - .env
+  - .env.default

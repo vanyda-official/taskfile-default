@@ -1,0 +1,5 @@
+version: '3'
+
+tasks:
+  default:
+    cmd: echo "Hello, this is the default task of the \`Taskfile\` called \`another.yaml\`"
