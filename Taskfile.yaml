@@ -2,8 +2,8 @@ version: '3'
 
 includes:
   default: ./tasks.yaml
-  markdownlint: https://raw.githubusercontent.com/hoomy-official/taskfile-markdownlint/main/tasks.yaml
-  git: https://raw.githubusercontent.com/hoomy-official/taskfile-git/main/tasks.yaml
+  markdownlint: https://raw.githubusercontent.com/vanyda-official/taskfile-markdownlint/main/tasks.yaml
+  git: https://raw.githubusercontent.com/vanyda-official/taskfile-git/main/tasks.yaml
 
 dotenv:
   - .env

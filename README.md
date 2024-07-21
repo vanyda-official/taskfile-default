@@ -61,4 +61,4 @@ The  `default`  task utilizes the following variables:
 
 ## Examples
 
-Check folder [`./examples`](./examples).
+Check folder [`./examples`](examples).
